@@ -1,3 +1,4 @@
+start
 file2
 Add line 2 from Ubuntu
 
