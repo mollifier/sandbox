@@ -2,3 +2,4 @@ file1
 add line from Ubuntu
 
 line1
+line1
