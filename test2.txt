@@ -3,5 +3,5 @@ file2
 Add line 2 from Ubuntu
 
 line1
-line
-line
+line2
+

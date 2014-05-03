@@ -8,3 +8,6 @@ line1
 line1
 line1
 line1.txt
+line2
+line3
+
