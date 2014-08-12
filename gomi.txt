@@ -8,4 +8,8 @@ line1
 line1
 line1
 line1.txt
+<<<<<<< HEAD
+=======
+line2
+>>>>>>> feature/1
 

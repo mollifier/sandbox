@@ -1,4 +1,9 @@
 
 
 line
+<<<<<<< HEAD
 yyy
+=======
+line2
+
+>>>>>>> feature/1
